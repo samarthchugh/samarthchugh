@@ -7,13 +7,26 @@
 
 <h3 align="left">💡 About Me</h3>
 <ul>
-  <li>🎓 Currently learning advanced AI topics like <b>LangChain</b>, <b>vector databases</b>, <b>retrieval-augmented generation (RAG)</b>, <b>self-attention</b>, <b>LoRA</b>, and <b>fine-tuning</b> to build scalable and efficient AI systems.</li>
-  <li>💻 Experienced with <b>Flask</b>, <b>Streamlit</b>, <b>Pandas</b>, <b>NumPy</b>, and machine learning pipelines for data preprocessing, modeling, and deployment.</li>
-  <li>🔥 Passionate about applying ML to real-world problems like <b>mental health prediction</b>, <b>ATS resume optimization</b>, and <b>fashion design assistants</b>.</li>
-  <li>🌱 Exploring tools and platforms like <b>Groq</b>, <b>Hugging Face</b>, <b>Stable Diffusion</b>, <b>Docker</b>, and <b>Kubernetes</b> to enhance model performance and deployment.</li>
-  <li>📈 Continuously improving problem-solving skills by practicing <b>DSA</b>, algorithmic challenges, and understanding deep learning architectures.</li>
-</ul>
+  <li>
+    🚀 Aspiring <b>Machine Learning Engineer</b> focused on building real-world AI applications and continuously exploring modern machine learning systems.
+  </li>
 
+  <li>
+    🧠 Interested in <b>Generative AI</b>, <b>Deep Learning</b>, <b>RAG systems</b>, <b>LLM applications</b>, and scalable AI workflows.
+  </li>
+
+  <li>
+    💻 Experienced in developing end-to-end ML projects including data preprocessing, model training, evaluation, and deployment.
+  </li>
+
+  <li>
+    🔍 Continuously improving my understanding of deep learning architectures, problem-solving, and software engineering fundamentals.
+  </li>
+
+  <li>
+    📈 Passionate about learning, building, and applying AI to solve practical problems.
+  </li>
+</ul>
 <h3 align="left">💬 Ask me about</h3>
 <ul>
   <li>Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, Neural Networks, data preprocessing, deployment pipelines, and model interpretability.</li>
