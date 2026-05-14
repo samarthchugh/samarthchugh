@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthchugh&label=Profile%20views&color=0e75b6&style=flat" alt="samarthchugh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthchugh&label=Profile%20views&color=0e75b6&style=flat" alt="samarthchugh" /> </p> -->
 
 <h3 align="left">💡 About Me</h3>
 <ul>
